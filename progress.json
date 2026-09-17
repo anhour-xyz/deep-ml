@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:01:23.139Z",
+  "generated_at": "2026-09-17T08:02:12.390Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -36,7 +36,7 @@
       "url": "https://www.deep-ml.com/problems/71",
       "path": "problems/0071-calculate-root-mean-square-error-rmse",
       "first_solved_at": "2026-09-17T08:01:20.061Z",
-      "last_pushed_at": "2026-09-17T08:01:20.061Z",
+      "last_pushed_at": "2026-09-17T08:02:09.190Z",
       "language": "python",
       "lines": 8
     }
