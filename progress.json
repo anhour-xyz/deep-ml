@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:07:20.367Z",
+  "generated_at": "2026-11-01T16:08:46.525Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -221,6 +221,19 @@
       "last_pushed_at": "2026-11-01T16:07:19.600Z",
       "language": "sql",
       "lines": 5
+    },
+    "problem:1105": {
+      "kind": "problem",
+      "id": "1105",
+      "title": "Remove duplicates with DISTINCT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1105",
+      "path": "problems/1105-remove-duplicates-with-distinct",
+      "first_solved_at": "2026-11-01T16:08:45.836Z",
+      "last_pushed_at": "2026-11-01T16:08:45.836Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
