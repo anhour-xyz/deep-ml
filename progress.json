@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:33:11.782Z",
+  "generated_at": "2026-11-02T16:22:50.843Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -312,6 +312,19 @@
       "last_pushed_at": "2026-11-02T15:33:11.415Z",
       "language": "sql",
       "lines": 7
+    },
+    "problem:1110": {
+      "kind": "problem",
+      "id": "1110",
+      "title": "Nth-Highest Salary with Ties and NULL",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1110",
+      "path": "problems/1110-nth-highest-salary-with-ties-and-null",
+      "first_solved_at": "2026-11-02T16:22:50.592Z",
+      "last_pushed_at": "2026-11-02T16:22:50.592Z",
+      "language": "sql",
+      "lines": 8
     }
   }
 }
