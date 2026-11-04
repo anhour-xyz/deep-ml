@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:13:32.444Z",
+  "generated_at": "2026-11-04T15:44:44.856Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -338,6 +338,19 @@
       "last_pushed_at": "2026-11-03T16:13:32.426Z",
       "language": "sql",
       "lines": 10
+    },
+    "problem:1249": {
+      "kind": "problem",
+      "id": "1249",
+      "title": "Monthly Average Product Rating",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1249",
+      "path": "problems/1249-monthly-average-product-rating",
+      "first_solved_at": "2026-11-04T15:44:44.888Z",
+      "last_pushed_at": "2026-11-04T15:44:44.888Z",
+      "language": "sql",
+      "lines": 11
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**27** solved · 27 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-21 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-09-18 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Monthly Average Product Rating](https://www.deep-ml.com/problems/1249) | easy | 2026-11-04 | [solution](problems/1249-monthly-average-product-rating) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-11-01 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-09-18 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-09-18 | [solution](problems/1102-select-specific-columns) |
