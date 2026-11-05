@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-11-03 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-11-02 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-02 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-05 | [solution](problems/1111-top-3-salaries-per-department) |
 
 ---
 
